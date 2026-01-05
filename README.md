@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**prit10-ing/prit10-ing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there, I'm Pritesh
 
-Here are some ideas to get you started:
+💼 Aspiring Data Scientist | ML Enthusiast  
+📍 India  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What Defines Me
+- Strong foundation in Python, SQL, and Machine Learning
+- Experience with EDA, model building, and evaluation
+- Passionate about solving real-world problems with data
+
+🧠 Currently Learning
+- Advanced Machine Learning
+- Deep Learning & Generative AI
+
+💬 Ask Me About
+- Data Science
+- Machine Learning
+- Interview Preparation
+
+📫 Reach Me At
+- Email: yourmail@gmail.com
+- LinkedIn: www.linkedin.com/in/pritesh-ingle-8950a2310
+
+
