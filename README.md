@@ -121,4 +121,7 @@ Interview Preparation for Data Roles
 
 📧 Email: (priteshingle7@gmail.com)
 
+🔗 Portfolio: https://pixel-pritesh-port.lovable.app
+
+
 ⭐ If you like my work, feel free to star my repositories!
