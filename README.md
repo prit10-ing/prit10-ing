@@ -15,7 +15,7 @@ I’m a data-driven problem solver with a strong foundation in Python, SQL, and 
 
 💡 Hands-on learner through real-world datasets & projects
 
-🎯 Targeting Entry-Level Data Scientist / Data Analyst roles (6–8 LPA)
+🎯 Targeting Entry-Level Data Scientist / Data Analyst roles
 
 🛠️ Technical Skills
 🔹 Programming & Tools
