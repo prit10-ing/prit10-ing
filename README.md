@@ -1,127 +1,83 @@
-👋 Hi, I’m Pritesh Ingle
+# Hi, I'm Pritesh Ingle 👋
 
-🎯 Aspiring Data Scientist | Data Analyst | Machine Learning Enthusiast
-📍 India
+**Data Scientist · AI/ML Developer · Data Analyst**
+📍 Nagpur, India · [LinkedIn](https://www.linkedin.com/in/pritesh-ingle-07-) · [Portfolio](https://pixel-pritesh-port.lovable.app) · [Email](mailto:priteshingle07@outlook.com)
 
-I’m a data-driven problem solver with a strong foundation in Python, SQL, and Machine Learning, focused on building real-world, end-to-end data science projects that deliver actionable insights.
+---
 
-🚀 About Me
+I build end-to-end data science and ML systems — from raw data to deployed product. My work spans classical ML, deep learning, NLP, and GenAI pipelines, with a focus on projects that are production-ready and measurable.
 
-🎓 BCA Graduate with 8.6 CGPA
+10 months of internship experience in data science and analytics. BCA graduate, CGPA 8.5/10.
 
-📊 Strong in EDA, feature engineering, model building & evaluation
+---
 
-🧠 Passionate about turning raw data into business insights
+## 🚀 Projects
 
-💡 Hands-on learner through real-world datasets & projects
+### 🔬 MRI Brain Tumor Detection
+CNN-based medical image classifier · **99.08% accuracy**
+TensorFlow · Keras · Transfer Learning · Image Augmentation
+> Multi-class tumor classification on MRI scans with full training pipeline and evaluation.
 
-🎯 Targeting Entry-Level Data Scientist / Data Analyst roles
+---
 
-🛠️ Technical Skills
-🔹 Programming & Tools
+### 🧠 Sanskrit RAG Pipeline
+Retrieval-Augmented Generation for Sanskrit texts with multilingual querying (English / Sanskrit / Hindi)
+LangChain · ChromaDB · HuggingFace · `paraphrase-multilingual-MiniLM-L12-v2` · Streamlit
+> Solved cross-language semantic retrieval on low-resource Sanskrit PDFs. Runs entirely on CPU.
 
-Python, SQL
+---
 
-Pandas, NumPy
+### 📉 Customer Churn Prediction · *Deployed*
+End-to-end churn classifier with live deployment on Render
+XGBoost · Flask · Docker · Render
+> Containerised ML app serving real-time churn predictions via REST API.
 
-Matplotlib, Seaborn
+---
 
-Scikit-learn
+### 🧪 A/B Testing Conversion Analysis
+Statistical experiment on **290,000 users**, detected **+2.3% conversion lift**
+Python · SciPy · Statsmodels · Power BI
+> Full hypothesis testing pipeline: sample sizing, z-test, p-value interpretation, business recommendation.
 
-Jupyter Notebook
+---
 
-Git & GitHub
+### 💻 Laptop Price Prediction · *Deployed*
+Regression model with R² = **0.965**
+MySQL · Streamlit · Docker · Scikit-learn
+> Feature engineering on specs data, containerised Streamlit app with live price inference.
 
-🔹 Machine Learning
+---
 
-Supervised & Unsupervised Learning
+### 📚 Book Recommendation System · *Deployed*
+Collaborative filtering recommender
+KNN · Flask · Docker
+> User-based recommendations served via Flask API, containerised for deployment.
 
-Regression & Classification
+---
 
-Feature Engineering
+## 🛠️ Stack
 
-Model Evaluation (Accuracy, Precision, Recall, ROC-AUC)
+| Area | Tools |
+|---|---|
+| Languages | Python · SQL |
+| ML / DL | Scikit-learn · XGBoost · TensorFlow · Keras |
+| NLP / GenAI | LangChain · ChromaDB · HuggingFace · RAG |
+| Data | Pandas · NumPy · SciPy · Statsmodels |
+| Viz | Matplotlib · Seaborn · Power BI |
+| Deployment | Flask · Streamlit · Docker · Render |
+| Dev Tools | Git · GitHub · Jupyter · MySQL |
 
-Hyperparameter Tuning
+---
 
-🔹 Data Analysis
+## 📜 Certifications
 
-Exploratory Data Analysis (EDA)
+- **HackerRank SQL (Advanced)** — ID: 43AB75A82A81
+- **Deloitte Data Analytics Job Simulation** — Forage (Power BI · Tableau)
 
-Data Cleaning & Preprocessing
+---
 
-Statistical Analysis
+## 📫 Let's connect
 
-Business Problem Understanding
+If you're hiring for data science, ML, or analytics roles — I'd love to talk.
 
-📌 Featured Projects
-💻 Laptop Price Prediction
-
-Built a regression model to predict laptop prices based on specifications
-
-Performed EDA, feature engineering, scaling, and model comparison
-
-Tools: Python, Pandas, NumPy, Scikit-learn
-
-🎬 Movie Recommendation System
-
-Developed a content-based recommendation system using NLP
-
-Implemented vectorization & cosine similarity
-
-Focused on personalized movie suggestions
-
-🤖 AI Chatbot
-
-Created an intelligent chatbot using NLP techniques
-
-Handled intent recognition and user interaction flow
-
-Improved user experience with structured responses
-
-📉 Customer Churn Prediction
-
-Built a classification model to identify customers likely to churn
-
-Applied EDA, feature scaling, model evaluation
-
-Focused on business impact & customer retention strategies
-
-👉 Each project follows an end-to-end pipeline: problem → data → model → insight.
-
-📚 Currently Learning
-
-Advanced Machine Learning Concepts
-
-Deep Learning Fundamentals
-
-Generative AI & NLP
-
-💬 Ask Me About
-
-Data Science & Machine Learning
-
-Python & SQL for Analytics
-
-Interview Preparation for Data Roles
-
-🤝 Why Hire Me?
-
-✔ Strong fundamentals in Data Science
-✔ Project-based, practical learning approach
-✔ Ability to explain models & insights clearly
-✔ Fast learner with growth mindset
-✔ Ready to contribute from day one
-
-📫 Let’s Connect
-
-🔗 LinkedIn: (https://www.linkedin.com/in/pritesh-ingle-8950a2310/)
-
-💻 GitHub: (https://github.com/prit10-ing)
-
-📧 Email: (priteshingle7@gmail.com)
-
-🔗 Portfolio: https://pixel-pritesh-port.lovable.app
-
-
-⭐ If you like my work, feel free to star my repositories!
+[LinkedIn](https://www.linkedin.com/in/pritesh-ingle-07-) · [Portfolio](https://pixel-pritesh-port.lovable.app) · [priteshingle07@outlook.com](mailto:priteshingle07@outlook.com)
